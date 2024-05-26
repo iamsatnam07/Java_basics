@@ -21,6 +21,6 @@ public class Client {
         // t1.join();
         // t2.join();
 
-        System.out.println(count.count);
+        //System.out.println(count.count);
     }
 }
